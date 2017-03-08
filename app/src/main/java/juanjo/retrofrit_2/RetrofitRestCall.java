@@ -15,11 +15,6 @@ import retrofit2.http.Url;
 
 public interface RetrofitRestCall {
 
-    @GET("usersFake")
-    Call<List<ResponseService>> getUsersGet();
-    @POST("usersFake")
-    Call<List<ResponseService>> getUsersPost();
-
     @GET
     Call<ShowResponse> getShowDetails(@Url String query);
 

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Retrofrit_2</string>
+    <string name="tv_name">Name: </string>
+    <string name="tv_country">Country: </string>
+    <string name="tv_description">Description: </string>
+    <string name="tv_next_air">Next episode: </string>
+    <string name="tv_total_season">Seasons: </string>
+    <string name="tv_started">Started: </string>
+    <string name="tv_ended">Ended: </string>
+</resources>
